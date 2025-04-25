@@ -76,6 +76,7 @@
 \setkomafont{subsection}{\fontsize{12pt}{14pt}\selectfont\bfseries}
 
 \RequirePackage{authblk}  % for affiliations
+\RequirePackage{float}
 \RequirePackage{hyperref}
 \RequirePackage{xcolor}
 \hypersetup{
@@ -138,7 +139,7 @@
 
 % Figures and Tables
 \RequirePackage{graphicx}
-\RequirePackage{booktabs,float}
+\RequirePackage{booktabs}
 
 % References
 \RequirePackage[style=numeric, sorting=nyt, maxbibnames=10]{biblatex}

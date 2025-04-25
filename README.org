@@ -1,4 +1,5 @@
 #+title: LaTeX template for EUME+QOR EURO WG meeting in Kaiserslautern, 2025
 
 - LaTeX class file: [[./qor-eume-ext-abstract.cls]]
-- Example source file: [[./example.tex]]
+- Example source file: [[./example.tex]] ([[./example.zip]] contains all the files,
+  including the class description)
