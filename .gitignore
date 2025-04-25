@@ -1,0 +1,10 @@
+tmp/
+*.bcf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+.auctex-auto
